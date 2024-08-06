@@ -4,7 +4,7 @@ import { CodeIcon, HomeIcon, NotebookIcon, PencilLine } from "lucide-react";
 export const DATA = {
   name: "Kiet.Le",
   initials: "Tuker",
-  url: "https://dillion.io",
+  url: "https://kiettuan1792001.github.io/kietlt.des.github.io/",
   location: "San Francisco, CA",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
